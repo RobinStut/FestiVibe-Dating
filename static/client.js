@@ -8,6 +8,7 @@ import {
 } from './modules/helper.js'
 
 const storeUserLocation = document.getElementById('userLocation')
+
 const submitUserLocationForm = document.getElementById('submitUserLocation')
 const customLocationTrigger = document.getElementById('getCustomLocation')
 const locationSuggestions = document.getElementById('locationSuggestions')
